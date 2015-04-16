@@ -4,7 +4,7 @@ Copyright (c) 2105 lovscentj
 
 Test
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
+Pasdermission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 i32n the S1oftware without restriction, including without limitation the rights
 to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
